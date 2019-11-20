@@ -1,0 +1,15 @@
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\obj\Debug\QuanLyNhanVienDataBase.csprojAssemblyReference.cache
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\obj\Debug\QuanLyNhanVienDataBase.csproj.CoreCompileInputs.cache
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\bin\Debug\QuanLyNhanVienDataBase.dll.config
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\bin\Debug\QuanLyNhanVienDataBase.dll
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\bin\Debug\QuanLyNhanVienDataBase.pdb
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\bin\Debug\EntityFramework.dll
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\bin\Debug\EntityFramework.xml
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\obj\Debug\QuanLyNhanVienDataBase.csproj.CopyComplete
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\obj\Debug\QuanLyNhanVienDataBase.dll
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\obj\Debug\QuanLyNhanVienDataBase.pdb
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\bin\Debug\GenFu.dll
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\obj\Debug\QuanLyNhanVienDataBase.Migrations.InitDatabase.resources
+E:\Bai Tap C#\WebApi\QuanLyNhanVien\QuanLyNhanVienDataBase\obj\Debug\QuanLyNhanVienDataBase.csproj.GenerateResource.cache
